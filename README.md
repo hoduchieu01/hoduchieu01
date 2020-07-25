@@ -22,7 +22,7 @@ I am happy to connect with recruiters, software engineers, friends, community pr
 - [My website](https://www.hoduchieu.tech) 
 - [YouTube](https://www.youtube.com/channel/UCb0AEkWItboHlbLqsRS9ERA)
 - [LinkedIn](https://www.linkedin.com/in/hoduchieu01/)
-- For detailed information about me, please view [my CV](https://www.hoduchieu.tech/documents/CV_HODUCHIEU.pdf)
+- For detailed information about me, please view [my CV](https://www.hoduchieu.tech/CV_HODUCHIEU.pdf)
 
 </details>
 
