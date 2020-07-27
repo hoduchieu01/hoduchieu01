@@ -8,7 +8,7 @@ I am writing a [Computer Science Handbook](https://github.com/hoduchieu01/Comput
 
 [![Ho Duc Hieu's github stats](https://github-readme-stats.vercel.app/api?username=hoduchieu01&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/hoduchieu01)
 
-I am currently looking for internships in software development and machine learning. I am happy to connect with recruiters, software engineers, friends, community program leads and anyone who share some of the interests with me! 
+I am currently looking for internships in software development and machine learning. I am happy to connect with recruiters, software engineers, friends, community program leads and anyone who share some of the interests with me!
 
 <details>
   <summary>
@@ -17,12 +17,11 @@ I am currently looking for internships in software development and machine learn
 <br />
 
 - [My email: hoduchieu01@gmail.com](mailto:hoduchieu01@gmail.com)
-- [Facebook](https://github.github.com/training-kit/)
-- [Github](https://github.com/bpesquet/thejsway)
+- [Facebook](https://www.facebook.com/hoduchieu01)
+- [Github](https://github.com/hoduchieu01)
 - [My website](https://www.hoduchieu.tech) 
 - [YouTube](https://www.youtube.com/channel/UCb0AEkWItboHlbLqsRS9ERA)
 - [LinkedIn](https://www.linkedin.com/in/hoduchieu01/)
 - For detailed information about me, please view [my CV](https://www.hoduchieu.tech/CV_HODUCHIEU.pdf)
 
 </details>
-
