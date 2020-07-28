@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a Computer Science and Engineering student with a strong interest in Software Development & Artificial Intelligence. I am currently working as Student Researcher at [Institute of Mathematics](http://math.ac.vn/), Intern at [2020 MOST GASE TAIWAN Global Talent Internship Program: Artificial Intelligence and Green Technology](https://gasesummer.most.ntu.edu.tw/supervisors#Artificial), Core Maintainer at [Open Source Education Bot, Facebook]()
+I am a Computer Science and Engineering student with a strong interest in Software Development & Artificial Intelligence. I am currently working as Student Researcher at [Institute of Mathematics](http://math.ac.vn/), Intern at [2020 MOST GASE TAIWAN Global Talent Internship Program: Artificial Intelligence and Green Technology](https://gasesummer.most.ntu.edu.tw/supervisors#Artificial)
 
 I am writing a [Computer Science Handbook](https://github.com/hoduchieu01/Computer-Science-Handbook) to create a training material for our community training and spread knowledge about computers science. I would love to hear your feedback and welcome you to contribute to this project.
 
@@ -19,7 +19,7 @@ I am currently looking for internships in software development and machine learn
 - [My email: hoduchieu01@gmail.com](mailto:hoduchieu01@gmail.com)
 - [Facebook](https://www.facebook.com/hoduchieu01)
 - [Github](https://github.com/hoduchieu01)
-- [My website](https://www.hoduchieu.tech) 
+- [My website](https://www.hoduchieu.tech)
 - [YouTube](https://www.youtube.com/channel/UCb0AEkWItboHlbLqsRS9ERA)
 - [LinkedIn](https://www.linkedin.com/in/hoduchieu01/)
 - For detailed information about me, please view [my CV](https://www.hoduchieu.tech/CV_HODUCHIEU.pdf)
