@@ -2,7 +2,7 @@
 
 I am a Computer Science and Engineering student with a strong interest in Software Development & Artificial Intelligence. I am currently working as Student Researcher at [Institute of Mathematics](http://math.ac.vn/), Intern at [2020 MOST GASE TAIWAN Global Talent Internship Program: Artificial Intelligence and Green Technology](https://gasesummer.most.ntu.edu.tw/supervisors#Artificial)
 
-I am writing a [Computer Science Handbook](https://github.com/hoduchieu01/Computer-Science-Handbook) to create a training material for our community training and spread knowledge about computers science. I would love to hear your feedback and welcome you to contribute to this project.
+I am writing a [Computer Science Handbook](https://github.com/hoduchieu01/Computer-Science-Handbook) to create a material for our community training and spread knowledge about computers science. I would love to hear your feedback and welcome you to contribute to this project.
 
 [![Computer Science Handbook](https://github-readme-stats.vercel.app/api/pin/?username=hoduchieu01&theme=tokyonight&repo=Computer-Science-Handbook)](https://github.com/hoduchieu01/Computer-Science-Handbook)
 
