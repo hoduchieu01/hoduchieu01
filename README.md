@@ -6,7 +6,7 @@ I am writing a [Computer Science Handbook](https://github.com/hoduchieu01/Comput
 
 [![Computer Science Handbook](https://github-readme-stats.vercel.app/api/pin/?username=hoduchieu01&theme=default&repo=Computer-Science-Handbook)](https://github.com/hoduchieu01/Computer-Science-Handbook)
 
-[![Ho Duc Hieu's github stats](https://github-readme-stats.vercel.app/api?username=hoduchieu01&show_icons=true&count_private=true&theme=default)](https://github.com/hoduchieu01)
+[![Ho Duc Hieu's github stats](https://github-readme-stats.vercel.app/api?username=hoduchieu01&show_icons=true&include_all_commits=true&count_private=true&theme=default)](https://github.com/hoduchieu01)
 
 I am currently looking for internships in software development and machine learning. I am happy to connect with recruiters, software engineers, friends, community program leads and anyone who share some of the interests with me!
 
