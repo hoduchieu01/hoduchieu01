@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, I'm [Ho Duc Hieu](https://www.hoduchieu.tech/) 👋 
 
 I am a Computer Science and Engineering student with a strong interest in Software Development & Artificial Intelligence. I am currently working as Student Researcher at [Institute of Mathematics](http://math.ac.vn/), Intern at [2020 MOST GASE TAIWAN Global Talent Internship Program: Artificial Intelligence and Green Technology](https://gasesummer.most.ntu.edu.tw/supervisors#Artificial)
 
