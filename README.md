@@ -1,4 +1,6 @@
 # Hi there, I'm [Ho Duc Hieu](https://www.hoduchieu.tech/) 👋 
+[![Github](https://img.shields.io/github/followers/hoduchieu01?label=Follow&style=social)](https://github.com/hoduchieu01)
+[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=hoduchieu01)](https://github.com/hoduchieu01)
 
 I am a Computer Science and Engineering student with a strong interest in Software Development & Artificial Intelligence. I am currently working as Student Researcher at [Institute of Mathematics](http://math.ac.vn/), Intern at [2020 MOST GASE TAIWAN Global Talent Internship Program: Artificial Intelligence and Green Technology](https://gasesummer.most.ntu.edu.tw/supervisors#Artificial)
 
