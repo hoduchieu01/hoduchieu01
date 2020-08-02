@@ -18,7 +18,7 @@ I am currently looking for internships in software development and machine learn
   </summary>
 <br />
 
-- [My email: hoduchieu01@gmail.com](mailto:hoduchieu01@gmail.com)
+- My email:[hoduchieu01@gmail.com](mailto:hoduchieu01@gmail.com)
 - [Facebook](https://www.facebook.com/hoduchieu01)
 - [Github](https://github.com/hoduchieu01)
 - [My website](https://www.hoduchieu.tech)
