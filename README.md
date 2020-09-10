@@ -2,7 +2,7 @@
 [![Github](https://img.shields.io/github/followers/hoduchieu01?label=Follow&style=social)](https://github.com/hoduchieu01)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=hoduchieu01)](https://github.com/hoduchieu01)
 
-I am a Computer Science and Engineering student with a strong interest in Software Development & Artificial Intelligence. I am currently looking for internships in software development and machine learning. I am happy to connect with recruiters, software engineers, friends, community program leads and anyone who share some of the interests with me!
+I am a Computer Science and Engineering student at Seoul National University with a strong interest in Software Development & Artificial Intelligence. I am currently looking for internships in software development and machine learning. I am happy to connect with recruiters, software engineers, friends, community program leads and anyone who share some of the interests with me!
 
 I am writing a [Computer Science Handbook](https://github.com/hoduchieu01/Computer-Science-Handbook) to create a material for our community training and spread knowledge about computers science. I would love to hear your feedback and welcome you to contribute to this project.
 
