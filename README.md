@@ -1,6 +1,6 @@
 # Hi there, I'm [Ho Duc Hieu](https://www.hoduchieu.tech/) 👋 
 [![Github](https://img.shields.io/github/followers/hoduchieu01?label=Follow&style=social)](https://github.com/hoduchieu01)
-[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=hoduchieu01)](https://github.com/hoduchieu01)
+
 
 I am a Computer Science and Engineering student at Seoul National University with a strong interest in Software Development & Artificial Intelligence. I am currently looking for internships in software development and machine learning. I am happy to connect with recruiters, software engineers, friends, community program leads and anyone who share some of the interests with me!
 
