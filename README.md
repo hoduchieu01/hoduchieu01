@@ -14,7 +14,7 @@ I am a Computer Science and Engineering student at Seoul National University wit
   </summary>
 <br />
 
-- My email:[hoduchieu01@gmail.com](mailto:hoduchieu01@gmail.com)
+- [hoduchieu01@gmail.com](mailto:hoduchieu01@gmail.com)
 - [Facebook](https://www.facebook.com/hoduchieu01)
 - [Github](https://github.com/hoduchieu01)
 - [My website](https://www.hoduchieu.tech)
