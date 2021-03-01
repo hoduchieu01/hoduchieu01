@@ -15,7 +15,7 @@
 
 - I'm best reached via email: [hoduchieu01@gmail.com](mailto:hoduchieu01@gmail.com) or [duchieu.ho@studentambassadors.com](mailto:duchieu.ho@studentambassadors.com) or [hoduchieu01@snu.ac.kr](mailto:hoduchieu01@snu.ac.kr)
 - [Facebook](https://www.facebook.com/hoduchieu01)
-- [My website](https://www.hoduchieu.tech)
+- [My Website](https://www.hoduchieu.tech)
 - [YouTube](https://www.youtube.com/channel/UCb0AEkWItboHlbLqsRS9ERA)
 - [LinkedIn](https://www.linkedin.com/in/hoduchieu01/)
 - For detailed information about me, please view [my CV](https://www.hoduchieu.tech/documents/CV_HODUCHIEU.pdf)
