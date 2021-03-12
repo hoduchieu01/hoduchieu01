@@ -1,6 +1,6 @@
 # Hi there, I'm [Ho Duc Hieu](https://www.hoduchieu.tech/) 👋 
 
-- :smile: I'm currently stuyding in the field of Computer Science and Engineering at Seoul National University :man_technologist:
+- :smile: I'm currently studying in the field of Computer Science and Engineering at Seoul National University :man_technologist:
 
 - :star_struck: I am interested in Open Source, Software Development and Engineering. 
 
