@@ -4,7 +4,7 @@
 
 - :star_struck: I am interested in Open Source, Software Development and Engineering. 
 
-- :star: I’m looking for **Summer 2021 internship opportunities** in Software development and engineering :raising_hand:. I’m interested in solving problems and building software that impact people around me :raised_hands: 
+- :star: I’m looking for **Winter 2021 internship opportunities** in Software development and engineering :raising_hand:. I’m interested in solving problems and building software that impact people around me :raised_hands: 
 
 - :sunglasses:  I am happy to connect with recruiters, software engineers, friends, community program leads and anyone who share some of the interests with me!
 
